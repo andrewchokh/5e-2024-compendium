@@ -8,9 +8,8 @@ A **Foundry VTT** module that adds a compendium of _species_, _classes_, _items_
 
 ## 📦 Requirements
 
-- **Foundry VTT**: v13 or later
-- **D&D5e system**: v5.0.4 or later
-- [Optional] **Kandashi's Module Management Tools** for easier updates and imports
+- **Foundry VTT**: v12 or later
+- **D&D5e system**: v4.4.2 or later
 
 ---
 
@@ -22,6 +21,8 @@ A **Foundry VTT** module that adds a compendium of _species_, _classes_, _items_
    git clone https://github.com/andrewchokh/5e-2024-compendium.git
    cd 5e-2024-compendium
    ```
+
+   - Or download the [latest](https://github.com/andrewchokh/5e-2024-compendium/releases/download/beta-0.5.2/5e-2024-compendium-0.5.2.zip) release.
 
 2. **Install the module:**
 
