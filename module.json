@@ -1,7 +1,7 @@
 {
   "id": "5e-2024-compendium",
   "title": "5e 2024 Compendium",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "compatibility": {
     "minimum": "12",
     "verified": "12",
@@ -111,8 +111,20 @@
   "relationships": {
     "recommends": [
       {
-        "id": "midi-qol",
+        "id": "ActiveAuras",
         "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dfreds-convenient-effects",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
         "compatibility": {}
       }
     ]
