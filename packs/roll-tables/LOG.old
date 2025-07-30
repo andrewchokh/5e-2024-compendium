@@ -1,3 +1,8 @@
-2025/07/29-14:00:51.432 4fcc Recovering log #178
-2025/07/29-14:00:51.468 4fcc Delete type=0 #178
-2025/07/29-14:00:51.468 4fcc Delete type=3 #177
+2025/07/30-11:26:45.635 368 Recovering log #200
+2025/07/30-11:26:45.665 368 Delete type=0 #200
+2025/07/30-11:26:45.665 368 Delete type=3 #198
+2025/07/30-11:27:37.209 2128 Level-0 table #205: started
+2025/07/30-11:27:37.209 2128 Level-0 table #205: 0 bytes OK
+2025/07/30-11:27:37.234 2128 Delete type=0 #203
+2025/07/30-11:27:37.276 2128 Manual compaction at level-0 from '!tables!YTSOXqMPklB6V2Mt' @ 72057594037927935 : 1 .. '!tables.results!YTSOXqMPklB6V2Mt.zC6e1UBB0GWJZ9oj' @ 0 : 0; will stop at (end)
+2025/07/30-11:27:37.276 2128 Manual compaction at level-1 from '!tables!YTSOXqMPklB6V2Mt' @ 72057594037927935 : 1 .. '!tables.results!YTSOXqMPklB6V2Mt.zC6e1UBB0GWJZ9oj' @ 0 : 0; will stop at (end)

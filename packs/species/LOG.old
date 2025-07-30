@@ -1,3 +1,7 @@
-2025/07/29-14:00:51.176 4fcc Recovering log #185
-2025/07/29-14:00:51.218 4fcc Delete type=0 #185
-2025/07/29-14:00:51.218 4fcc Delete type=3 #184
+2025/07/30-11:26:45.464 368 Recovering log #209
+2025/07/30-11:26:45.507 368 Delete type=0 #209
+2025/07/30-11:26:45.507 368 Delete type=3 #207
+2025/07/30-11:27:37.134 2128 Level-0 table #214: started
+2025/07/30-11:27:37.134 2128 Level-0 table #214: 0 bytes OK
+2025/07/30-11:27:37.151 2128 Delete type=0 #212
+2025/07/30-11:27:37.184 2128 Manual compaction at level-0 from '!folders!3j1azT0uXfi9TilM' @ 72057594037927935 : 1 .. '!items.effects!wQjJ3Xw82ApYTC6T.i5phbTSW94ItX05S' @ 0 : 0; will stop at (end)
